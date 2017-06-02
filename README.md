@@ -37,12 +37,5 @@ Dual licensed under the MIT or GPL Version 2 licenses
 
 ---
 
-### DESENVOLVIMENTO INICIAL:
-
 Orgulhosamente desenvolvido em Foz do Iguaçu.
-
-Desenvolvedores:
-- Christhian Gruhn (@gruhn)
-- Flávio Fagundes da Silva (@ffagundes10)
-
 Originalmente desenvolvido em 2013.
