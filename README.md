@@ -15,7 +15,7 @@ Um cadastro completo ou resumido? Organizado por exemplar ou por obra? E que per
 
 --- 
 
-### LIBS UTILIZADAS:
+### LICENSES
 
 - Bootstrap 3.0
 http://getbootstrap.com 
